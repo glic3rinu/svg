@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="737.5"
+   height="193.75"
+   id="svg2410"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="openvz-nnn-logo-slogan.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/kir/openvz/artwork/logo/openvz-nnn-logo-slogan.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
+   version="1.0">
+  <defs
+     id="defs2412">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2418" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="133.83582"
+     inkscape:cy="520"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1812"
+     inkscape:window-height="1158"
+     inkscape:window-x="-2"
+     inkscape:window-y="-2"
+     units="pt" />
+  <metadata
+     id="metadata2415">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.198739,-12.857142)">
+    <g
+       id="g17279"
+       transform="matrix(1.6919702,0,0,1.6919702,-66.42748,-39.539507)">
+      <path
+         inkscape:randomized="0"
+         sodipodi:type="star"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#005e31;stroke-width:8.83417988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+         id="path17281"
+         sodipodi:sides="3"
+         sodipodi:cx="22.694363"
+         sodipodi:cy="569.69183"
+         sodipodi:r1="27.580059"
+         sodipodi:r2="65.757111"
+         sodipodi:arg1="0.70758016"
+         sodipodi:arg2="-0.24279944"
+         inkscape:flatsided="false"
+         inkscape:rounded="-1.73"
+         d="M 43.65347,587.61878 C -47.03168,561.48802 -6.2490174,536.56151 86.522734,553.88245 C 245.09834,583.48929 -119.49636,690.7884 -3.3103839,578.87948 C 64.662091,513.40921 65.857754,561.19129 4.4715045,632.87352 C -100.45657,755.4006 -11.082981,386.00277 27.740002,542.57724 C 50.452677,634.17826 8.4743518,611.3227 -22.911151,522.31953 C -76.558678,370.18561 198.66243,632.28433 43.65347,587.61878 z"
+         transform="matrix(-0.5559684,0.2383794,0.2383794,0.5559684,-14.075538,-222.86354)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text17283"
+         y="113.94991"
+         x="319.24451"
+         style="font-size:75.09625244px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:URW Bookman L"
+         xml:space="preserve"><tspan
+           id="tspan17285"
+           style="font-size:75.09625244px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:URW Bookman L"
+           y="113.94991"
+           x="319.24451"
+           sodipodi:role="line">OpenVZ</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text17287"
+         y="136.90004"
+         x="260.02951"
+         style="font-size:38.23669815px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:URW Bookman L"
+           y="136.90004"
+           x="260.02951"
+           id="tspan17289"
+           sodipodi:role="line">Linux Containers</tspan></text>
+    </g>
+  </g>
+</svg>

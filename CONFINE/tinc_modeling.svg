@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="890"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="tinc_modeling.svg">
+  <defs
+     id="defs4">
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4304-8">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.4532804"
+         id="feGaussianBlur4306-9" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4300-1">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.4532804"
+         id="feGaussianBlur4302-2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4296-5">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.4532804"
+         id="feGaussianBlur4298-3" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4292-6">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.4532804"
+         id="feGaussianBlur4294-3" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4424-1"
+       x="-0.058119405"
+       width="1.1162388"
+       y="-0.10969014"
+       height="1.2193803">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2779451"
+         id="feGaussianBlur4426-8" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4432-7"
+       x="-0.058119405"
+       width="1.1162388"
+       y="-0.10969014"
+       height="1.2193803">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2779451"
+         id="feGaussianBlur4434-8" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4428-7"
+       x="-0.058119405"
+       width="1.1162388"
+       y="-0.10969014"
+       height="1.2193803">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2779451"
+         id="feGaussianBlur4430-8" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4420-1"
+       x="-0.058119405"
+       width="1.1162388"
+       y="-0.10969014"
+       height="1.2193803">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2779451"
+         id="feGaussianBlur4422-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3949">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.4532802"
+         id="feGaussianBlur3951" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3953">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.4532802"
+         id="feGaussianBlur3955" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3957">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.4532802"
+         id="feGaussianBlur3959" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3961">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.4532802"
+         id="feGaussianBlur3963" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="35.23114"
+     inkscape:cy="291.7979"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     width="800px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       style="fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3949)"
+       id="rect3130-0-92-4"
+       width="171.42857"
+       height="118.57144"
+       x="381.54852"
+       y="755.25604"
+       rx="12.615954"
+       ry="12.615954"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3957)"
+       id="rect3130-8-4-9"
+       width="171.42857"
+       height="118.57144"
+       x="123.74959"
+       y="563.82758"
+       rx="12.615954"
+       ry="12.615954"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3961)"
+       id="rect3130-1-7-6"
+       width="171.42857"
+       height="118.57144"
+       x="381.54852"
+       y="413.82748"
+       rx="12.615954"
+       ry="12.615954"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3953)"
+       id="rect3130-7-9"
+       width="171.42857"
+       height="118.57144"
+       x="122.32106"
+       y="753.11322"
+       rx="12.615954"
+       ry="12.615954"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 404.14286,475.21932 -69.99999,0 0,-114.28571 137.14285,0 0,65.71428"
+       id="path3413"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Sans Bold"
+       x="245.71429"
+       y="149.50504"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="245.71429"
+         y="149.50504" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Sans Bold"
+       x="220"
+       y="205.21933"
+       id="text3021"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3023"
+         x="220"
+         y="205.21933" /></text>
+    <rect
+       style="fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4420-1)"
+       id="rect4327-7-3-6"
+       width="135.36044"
+       height="71.720833"
+       x="631.02051"
+       y="832.41913"
+       rx="12.615954"
+       ry="12.615954"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4428-7)"
+       id="rect4327-6-5-4"
+       width="135.36044"
+       height="71.720833"
+       x="631.02051"
+       y="490.98752"
+       rx="12.615954"
+       ry="12.615954"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4432-7)"
+       id="rect4327-8-5-4"
+       width="135.36044"
+       height="71.720833"
+       x="631.02051"
+       y="383.91135"
+       rx="12.615954"
+       ry="12.615954"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4424-1)"
+       id="rect4327-1-3"
+       width="135.36044"
+       height="71.720833"
+       x="631.02051"
+       y="724.56738"
+       rx="12.615954"
+       ry="12.615954"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#d3d7cf;fill-opacity:1;stroke:#888a85;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4327-7-1"
+       width="135.36044"
+       height="71.720833"
+       x="631.02051"
+       y="832.41913"
+       rx="12.615954"
+       ry="12.615954"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#d3d7cf;fill-opacity:1;stroke:#888a85;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4327-6-4"
+       width="135.36044"
+       height="71.720833"
+       x="631.02051"
+       y="490.98752"
+       rx="12.615954"
+       ry="12.615954"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#729fcf;fill-opacity:1;stroke:#204a87;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4327-8-2"
+       width="135.36044"
+       height="71.720833"
+       x="631.02051"
+       y="383.91141"
+       rx="12.615954"
+       ry="12.615954"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#729fcf;fill-opacity:1;stroke:#204a87;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4327-4"
+       width="135.36044"
+       height="71.720833"
+       x="631.02051"
+       y="724.56738"
+       rx="12.615954"
+       ry="12.615954"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 205.91501,615.9704 0,207.14288"
+       id="path4009-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 467.26283,503.11326 0,314.28572"
+       id="path4013-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 264.77215,623.11326 200.71428,0"
+       id="path4015-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 613.22552,760.97037 -25.71429,0 0,107.14281 35.71429,0"
+       id="path4021-23"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 553.09104,814.54178 34.42019,0"
+       id="path4023-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 541.37929,473.11324 46.13194,0"
+       id="path4025-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.20388412px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Sans Bold"
+       x="698.51526"
+       y="757.30957"
+       id="text3005-0"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan3007-8"
+         x="698.51526"
+         y="757.30957">Research</tspan><tspan
+         sodipodi:role="line"
+         x="698.51526"
+         y="783.51343"
+         id="tspan3121-8">Device</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.20388412px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Sans Bold"
+       x="668.30194"
+       y="877.17572"
+       id="text3009-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan3011-6"
+         x="668.30194"
+         y="877.17572">Host</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.20388412px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Sans Bold"
+       x="644.18066"
+       y="533.71344"
+       id="text3013-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan3015-1"
+         x="644.18066"
+         y="533.71344">Gateway</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.20388412px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Sans Bold"
+       x="656.91559"
+       y="428.87766"
+       id="text3013-0-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan3015-0-6"
+         x="656.91559"
+         y="428.87766">Server</tspan></text>
+    <rect
+       style="fill:#d3d7cf;fill-opacity:1;stroke:#888a85;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3130-0-92"
+       width="171.42857"
+       height="118.57144"
+       x="381.54855"
+       y="755.2561"
+       rx="12.615954"
+       ry="12.615954"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Sans Bold"
+       x="394.45401"
+       y="825.97186"
+       id="text2997-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan2999-5"
+         x="394.45401"
+         y="825.97186">TincClient</tspan></text>
+    <rect
+       style="fill:#d3d7cf;fill-opacity:1;stroke:#888a85;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3130-8-4"
+       width="171.42857"
+       height="118.57144"
+       x="123.74959"
+       y="563.82758"
+       rx="12.615954"
+       ry="12.615954"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       style="stroke:#ce5c00"
+       id="g3106-5"
+       transform="translate(-5.2382399,419.32251)"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <text
+         sodipodi:linespacing="125%"
+         id="text2993-0"
+         y="187.50504"
+         x="149.65744"
+         style="font-size:30px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold Italic"
+         xml:space="preserve"><tspan
+           y="187.50504"
+           x="149.65744"
+           id="tspan2995-7"
+           sodipodi:role="line">TincHost</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3025-3"
+         y="210.74449"
+         x="213.00363"
+         style="font-size:21.23131371px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="210.74449"
+           x="213.00363"
+           id="tspan3027-2"
+           sodipodi:role="line">name</tspan><tspan
+           id="tspan3029-7"
+           y="231.9758"
+           x="213.00363"
+           sodipodi:role="line">pubkey</tspan></text>
+    </g>
+    <rect
+       style="fill:#d3d7cf;fill-opacity:1;stroke:#888a85;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3130-1-7"
+       width="171.42857"
+       height="118.57144"
+       x="381.54855"
+       y="413.82748"
+       rx="12.615954"
+       ry="12.615954"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       style="stroke:#ce5c00"
+       id="g3123-0"
+       transform="translate(4.0537601,144.7368)"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3001-9"
+         y="315.21933"
+         x="385.74274"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="315.21933"
+           x="385.74274"
+           id="tspan3003-4"
+           sodipodi:role="line">TincServer</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3031-3"
+         y="339.19476"
+         x="461.8078"
+         style="font-size:21.23131371px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="339.19476"
+           x="461.8078"
+           id="tspan3033-6"
+           sodipodi:role="line">ip_addr</tspan><tspan
+           id="tspan3035-2"
+           y="360.42609"
+           x="461.8078"
+           sodipodi:role="line">port</tspan></text>
+    </g>
+    <rect
+       style="fill:#d3d7cf;fill-opacity:1;stroke:#888a85;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3130-7"
+       width="171.42857"
+       height="118.57144"
+       x="122.32106"
+       y="753.11328"
+       rx="12.615954"
+       ry="12.615954"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       style="stroke:#ce5c00"
+       id="g3113-1"
+       transform="translate(-73.97627,732.17965)"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <text
+         sodipodi:linespacing="125%"
+         id="text2989-7"
+         y="55.219326"
+         x="240"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="55.219326"
+           x="240"
+           id="tspan2991-6"
+           sodipodi:role="line">Island</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3072-2"
+         y="80.375969"
+         x="282.25806"
+         style="font-size:21.23131371px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="80.375969"
+           x="282.25806"
+           id="tspan3074-5"
+           sodipodi:role="line">id</tspan><tspan
+           id="tspan3076-6"
+           y="101.60728"
+           x="282.25806"
+           sodipodi:role="line">name</tspan><tspan
+           id="tspan3078-1"
+           y="122.83859"
+           x="282.25806"
+           sodipodi:role="line">description</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:21.23131371px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Sans"
+       x="334.82095"
+       y="353.30948"
+       id="text3031-9-3"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         x="334.82095"
+         y="353.30948"
+         id="tspan3035-6-1">connect_to</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#eeeeec;fill-opacity:1;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4029-3"
+       sodipodi:sides="3"
+       sodipodi:cx="325.71429"
+       sodipodi:cy="373.79074"
+       sodipodi:r1="24.327696"
+       sodipodi:r2="12.163847"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 325.7143,349.46305 10.53419,18.24577 10.53421,18.24577 -21.06841,0 -21.0684,0 10.5342,-18.24577 z"
+       transform="matrix(0,-0.86995198,0.86995198,0,-8.6808299,906.46908)"
+       inkscape:transform-center-x="5.2909843"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="star"
+       style="fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4029-7-2"
+       sodipodi:sides="3"
+       sodipodi:cx="325.71429"
+       sodipodi:cy="373.79074"
+       sodipodi:r1="24.327696"
+       sodipodi:r2="12.163847"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 325.7143,349.46305 10.53419,18.24577 10.53421,18.24577 -21.06841,0 -21.0684,0 10.5342,-18.24577 z"
+       transform="matrix(0.26157864,0.45306749,-0.45306749,0.26157864,555.14309,156.33846)"
+       inkscape:transform-center-y="3.1818037"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="star"
+       style="fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4029-7-4-9"
+       sodipodi:sides="3"
+       sodipodi:cx="325.71429"
+       sodipodi:cy="373.79074"
+       sodipodi:r1="24.327696"
+       sodipodi:r2="12.163847"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 325.7143,349.46305 10.53419,18.24577 10.53421,18.24577 -21.06841,0 -21.0684,0 10.5342,-18.24577 z"
+       transform="matrix(0.26157864,0.45306749,-0.45306749,0.26157864,290.33637,495.17353)"
+       inkscape:transform-center-y="3.1818022"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="star"
+       style="fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4029-7-1-2"
+       sodipodi:sides="3"
+       sodipodi:cx="325.71429"
+       sodipodi:cy="373.79074"
+       sodipodi:r1="24.327696"
+       sodipodi:r2="12.163847"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 325.7143,349.46305 10.53419,18.24577 10.53421,18.24577 -21.06841,0 -21.0684,0 10.5342,-18.24577 z"
+       transform="matrix(0.45306749,-0.26157864,0.26157864,0.45306749,372.58847,335.61928)"
+       inkscape:transform-center-x="-3.1818026"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="star"
+       style="fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4029-7-48-4"
+       sodipodi:sides="3"
+       sodipodi:cx="325.71429"
+       sodipodi:cy="373.79074"
+       sodipodi:r1="24.327696"
+       sodipodi:r2="12.163847"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 325.7143,349.46305 10.53419,18.24577 10.53421,18.24577 -21.06841,0 -21.0684,0 10.5342,-18.24577 z"
+       transform="matrix(0.45306749,-0.26157864,0.26157864,0.45306749,372.58847,442.69545)"
+       inkscape:transform-center-x="-3.1818026"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="star"
+       style="fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4029-7-7-6"
+       sodipodi:sides="3"
+       sodipodi:cx="325.71429"
+       sodipodi:cy="373.79074"
+       sodipodi:r1="24.327696"
+       sodipodi:r2="12.163847"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 325.7143,349.46305 10.53419,18.24577 10.53421,18.24577 -21.06841,0 -21.0684,0 10.5342,-18.24577 z"
+       transform="matrix(0.45306749,-0.26157864,0.26157864,0.45306749,372.58847,676.27528)"
+       inkscape:transform-center-x="-3.1818026"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="star"
+       style="fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4029-7-5-9"
+       sodipodi:sides="3"
+       sodipodi:cx="325.71429"
+       sodipodi:cy="373.79074"
+       sodipodi:r1="24.327696"
+       sodipodi:r2="12.163847"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 325.7143,349.46305 10.53419,18.24577 10.53421,18.24577 -21.06841,0 -21.0684,0 10.5342,-18.24577 z"
+       transform="matrix(0.45306749,-0.26157864,0.26157864,0.45306749,372.58847,784.12701)"
+       inkscape:transform-center-x="-3.1818026"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 613.22552,419.54181 -25.71429,0 0,107.14285 35.71429,0"
+       id="path4021-2-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-size:26px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Sans"
+       x="33.086121"
+       y="970.62177"
+       id="text4183"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/tmp/tinc_modeling.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan4185"
+         x="33.086121"
+         y="970.62177"
+         style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold">Static tinc_server.connect_to: <tspan
+   style="font-weight:normal;-inkscape-font-specification:Ubuntu"
+   id="tspan3208">tinc_server.connect_to</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="33.086121"
+         y="1003.1218"
+         id="tspan3204"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
+   id="tspan4201">Dynamic tinc_client.connect_to</tspan>: tinc_client.island.tincserver_set.all()</tspan><tspan
+         sodipodi:role="line"
+         x="33.086121"
+         y="1035.6217"
+         id="tspan4187" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Sans"
+       x="-771.75653"
+       y="1333.1846"
+       id="text4195"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4197"
+         x="-771.75653"
+         y="1333.1846" /></text>
+  </g>
+</svg>

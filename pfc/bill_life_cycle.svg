@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3160"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="New document 3">
+  <defs
+     id="defs3162">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-87"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4211-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4211"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3079"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3081"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3083"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3085"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3087"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3089"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4208"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3093"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3095"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3097"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3099"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3101"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3103"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4038"
+       x="-0.065387659"
+       width="1.1307753"
+       y="-0.18050775"
+       height="1.3610156">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.912742"
+         id="feGaussianBlur4040" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4078">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.8334268"
+         id="feGaussianBlur4080" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4038-7"
+       x="-0.065387659"
+       width="1.1307753"
+       y="-0.18050775"
+       height="1.3610156">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.912742"
+         id="feGaussianBlur4040-6" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4038-4"
+       x="-0.065387659"
+       width="1.1307753"
+       y="-0.18050775"
+       height="1.3610156">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.912742"
+         id="feGaussianBlur4040-4" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4038-5"
+       x="-0.065387659"
+       width="1.1307753"
+       y="-0.18050775"
+       height="1.3610156">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.912742"
+         id="feGaussianBlur4040-0" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4038-9"
+       x="-0.065387659"
+       width="1.1307753"
+       y="-0.18050775"
+       height="1.3610156">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.912742"
+         id="feGaussianBlur4040-5" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4078-6">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.8334268"
+         id="feGaussianBlur4080-8" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter6624">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0381871"
+         id="feGaussianBlur6626" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="515"
+     inkscape:window-height="420"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3165">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter6624);enable-background:accumulate"
+       id="rect6571-1"
+       width="521.23871"
+       height="283.85291"
+       x="76.523491"
+       y="316.15002"
+       rx="5.7142859"
+       ry="5.7142859"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <rect
+       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6571"
+       width="521.23871"
+       height="283.85291"
+       x="72.523491"
+       y="312.15002"
+       rx="5.7142859"
+       ry="5.7142859"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:#316004;stroke-width:5.86050177;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4078-6);enable-background:accumulate"
+       id="path4042-8-2"
+       sodipodi:cx="247.73991"
+       sodipodi:cy="365.53983"
+       sodipodi:rx="30.557114"
+       sodipodi:ry="30.557114"
+       d="m 278.29703,365.53983 a 30.557114,30.557114 0 1 1 -61.11423,0 30.557114,30.557114 0 1 1 61.11423,0 z"
+       transform="matrix(1.0238032,0,0,1.0238032,261.17095,160.34579)"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#a9e96b;fill-opacity:1;fill-rule:nonzero;stroke:#a9e96b;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4042-1"
+       sodipodi:cx="247.73991"
+       sodipodi:cy="365.53983"
+       sodipodi:rx="30.557114"
+       sodipodi:ry="30.557114"
+       d="m 278.29703,365.53983 a 30.557114,30.557114 0 1 1 -61.11423,0 30.557114,30.557114 0 1 1 61.11423,0 z"
+       transform="translate(266.05779,168.03665)"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <rect
+       style="color:#000000;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:#306103;stroke-width:5.94408751;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4038-9);enable-background:accumulate"
+       id="rect3230-1-5"
+       width="70.205612"
+       height="25.431488"
+       x="96.893066"
+       y="686.68237"
+       rx="5.7142859"
+       ry="5.7142859"
+       transform="matrix(1.0089975,0,0,1.0098154,245.23346,-246.87181)"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <rect
+       style="color:#000000;fill:#a9e96b;fill-opacity:1;fill-rule:nonzero;stroke:#a9e96b;stroke-width:6;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3230-42"
+       width="70.205612"
+       height="25.431488"
+       x="342.02847"
+       y="445.39844"
+       rx="5.7142859"
+       ry="5.7142859"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <rect
+       style="color:#000000;fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#640000;stroke-width:5.94408751;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4038-5);enable-background:accumulate"
+       id="rect3230-1-3"
+       width="70.205612"
+       height="25.431488"
+       x="96.893066"
+       y="686.68237"
+       rx="5.7142859"
+       ry="5.7142859"
+       transform="matrix(1.0089975,0,0,1.0098154,381.60406,-309.01649)"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <rect
+       style="color:#000000;fill:#f36161;fill-opacity:1;fill-rule:nonzero;stroke:#f36161;stroke-width:6;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3230-6"
+       width="70.205612"
+       height="25.431488"
+       x="478.39902"
+       y="383.25385"
+       rx="5.7142859"
+       ry="5.7142859"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <rect
+       style="color:#000000;fill:#640000;fill-opacity:1;fill-rule:nonzero;stroke:#640000;stroke-width:5.94408751;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4038-4);enable-background:accumulate"
+       id="rect3230-1-9"
+       width="70.205612"
+       height="25.431488"
+       x="96.893066"
+       y="686.68237"
+       rx="5.7142859"
+       ry="5.7142859"
+       transform="matrix(1.0089975,0,0,1.0098154,244.80961,-362.49366)"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <rect
+       style="color:#000000;fill:#f36161;fill-opacity:1;fill-rule:nonzero;stroke:#f36161;stroke-width:6;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3230-4"
+       width="70.205612"
+       height="25.431488"
+       x="341.60458"
+       y="329.77661"
+       rx="5.7142859"
+       ry="5.7142859"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <rect
+       style="color:#000000;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:#316103;stroke-width:5.94408751;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4038-7);enable-background:accumulate"
+       id="rect3230-1-0"
+       width="70.205612"
+       height="25.431488"
+       x="96.893066"
+       y="686.68237"
+       rx="5.7142859"
+       ry="5.7142859"
+       transform="matrix(1.0089975,0,0,1.0098154,124.64207,-304.55203)"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <rect
+       style="color:#000000;fill:#a9e96b;fill-opacity:1;fill-rule:nonzero;stroke:#a9e96b;stroke-width:6;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3230-8"
+       width="70.205612"
+       height="25.431488"
+       x="221.43707"
+       y="387.71826"
+       rx="5.7142859"
+       ry="5.7142859"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#c4a000;fill-opacity:1;fill-rule:nonzero;stroke:#645200;stroke-width:5.86050177;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4078);enable-background:accumulate"
+       id="path4042-8"
+       sodipodi:cx="247.73991"
+       sodipodi:cy="365.53983"
+       sodipodi:rx="30.557114"
+       sodipodi:ry="30.557114"
+       d="m 278.29703,365.53983 a 30.557114,30.557114 0 1 1 -61.11423,0 30.557114,30.557114 0 1 1 61.11423,0 z"
+       transform="matrix(1.0238032,0,0,1.0238032,2.4575629,171.62606)"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#fcea58;fill-opacity:1;fill-rule:nonzero;stroke:#fcea58;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4042"
+       sodipodi:cx="247.73991"
+       sodipodi:cy="365.53983"
+       sodipodi:rx="30.557114"
+       sodipodi:ry="30.557114"
+       d="m 278.29703,365.53983 a 30.557114,30.557114 0 1 1 -61.11423,0 30.557114,30.557114 0 1 1 61.11423,0 z"
+       transform="translate(7.3444129,179.31692)"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <rect
+       style="color:#000000;fill:#010200;fill-opacity:1;fill-rule:nonzero;stroke:#306004;stroke-width:5.94408751;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4038);enable-background:accumulate"
+       id="rect3230-1"
+       width="70.205612"
+       height="25.431488"
+       x="96.893066"
+       y="686.68237"
+       rx="5.7142859"
+       ry="5.7142859"
+       transform="matrix(1.0089975,0,0,1.0098154,12.114313,-234.75982)"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <rect
+       style="color:#000000;fill:#a9e96b;fill-opacity:1;fill-rule:nonzero;stroke:#a9e96b;stroke-width:6;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3230"
+       width="70.205612"
+       height="25.431488"
+       x="108.90929"
+       y="457.51044"
+       rx="5.7142859"
+       ry="5.7142859"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="144.14111"
+       y="474.41821"
+       id="text3004-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002"><tspan
+         sodipodi:role="line"
+         id="tspan3006-4"
+         x="144.14111"
+         y="474.41821">Open</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="256.72186"
+       y="406.52203"
+       id="text3012-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002"><tspan
+         sodipodi:role="line"
+         id="tspan3014-6"
+         x="256.72186"
+         y="406.52203">Closed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="377.51328"
+       y="464.20221"
+       id="text3016-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002"><tspan
+         sodipodi:role="line"
+         id="tspan3018-6"
+         x="377.51328"
+         y="464.20221">Send</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="513.75568"
+       y="538.28046"
+       id="text3024-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002"><tspan
+         sodipodi:role="line"
+         id="tspan3026-7"
+         x="513.75568"
+         y="538.28046">Payed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="513.45978"
+       y="402.0816"
+       id="text3028-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002"><tspan
+         sodipodi:role="line"
+         id="tspan3030-4"
+         x="513.45978"
+         y="402.0816">Returned</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="376.66537"
+       y="347.0899"
+       id="text3032-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002"><tspan
+         sodipodi:role="line"
+         id="tspan3034-6"
+         x="376.66537"
+         y="347.0899">Discarted</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="255.04233"
+       y="550.96875"
+       id="text3012-0-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002"><tspan
+         sodipodi:role="line"
+         id="tspan3014-9-2"
+         x="255.04233"
+         y="550.96875">Deleted</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 144.7494,487.13963 c 1.95896,29.68455 12.76111,60.19966 74.91184,59.22624"
+       id="path4082"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 256.37126,384.41653 c -4.54767,-47.70725 61.18398,-44.62177 79.23606,-42.93148"
+       id="path4193"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 377.08449,473.97748 c -0.68638,57.34747 49.55081,59.69978 98.42896,58.08377"
+       id="path4197"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="m 298.23167,401.71096 c 73.4737,7.30081 77.85459,-21.74719 78.85282,-43.43657"
+       id="path4199"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m 514.46523,411.89371 c 4.99184,60.04379 -56.91353,45.0354 -96.53049,45.45686"
+       id="path4203"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 144.7494,452.18989 c 1.29864,-29.20431 7.94096,-52.63212 72.98405,-53.16533"
+       id="path4082-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 256.37126,417.33993 c -9.42089,49.76594 61.70559,44.09797 79.93027,42.4264"
+       id="path4193-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="M 377.08449,442.43031 C 374.7932,391.0405 432.56957,396.5079 472.50552,394.95313"
+       id="path4203-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-87)"
+       d="m 514.97031,378.82008 c -0.0562,-29.06965 -12.55366,-44.53864 -98.99495,-37.88072"
+       id="path6628"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/ucp/trunk/ucp/docs/thesis/images/bill_life_cycle.png"
+       inkscape:export-xdpi="92.400002"
+       inkscape:export-ydpi="92.400002" />
+  </g>
+</svg>
