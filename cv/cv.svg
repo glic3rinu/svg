@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="cv2.svg">
+   sodipodi:docname="cv.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7071068"
-     inkscape:cx="272.06346"
-     inkscape:cy="528.57176"
+     inkscape:zoom="2"
+     inkscape:cx="353.71819"
+     inkscape:cy="553.85389"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -261,7 +261,7 @@
            style="font-weight:bold"
            id="tspan7464">Debian/Linux</tspan><tspan
            style="font-size:12px;fill:#555753"
-           id="tspan3181"> (running mission critical servers since 2007)</tspan></tspan></text>
+           id="tspan3181"> (running mission critical services since 2007)</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -410,7 +410,7 @@
    style="font-weight:bold;font-size:13.75px;line-height:120.00000477%"
    id="flowSpan4874-2">Advanced monitoring, analysis and tuning of Pangea PaaS infrastructure</flowSpan>, <flowSpan
    style="fill:#2e3436"
-   id="flowSpan7438">including web, mail and database services. Targeting Apache2, PHP, MySQL, Postfix, MailScanner, iSCSI, OpenVZ, Linux kernel and networking stack</flowSpan></flowPara><flowPara
+   id="flowSpan7438">including web, mail and database services. Targeting Apache2, PHP, MySQL, Postfix, MailScanner, iSCSI, OpenVZ, Linux kernel and networking stack.</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:120.00000477%;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:none"
          id="flowPara4848-6">.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:120.00000477%;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#000000"
@@ -420,7 +420,7 @@
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Italic'"
    id="flowSpan7418">CONFINE Object Resource Mapper</flowSpan> is a high level Python library for easily interacting with confine-controller REST API using object oriented concepts<flowSpan
    style="fill:#2e3436"
-   id="flowSpan4891">. Leverages the HATEOAS discoverability of CONFINE API, uses an Active Record like pattern, plus concurrency based on asynchronous non-blocking IO and caching based on Identity Mapping</flowSpan></flowPara><flowPara
+   id="flowSpan4891">. Leverages the HATEOAS discoverability of CONFINE API, uses an Active Record like pattern, concurrency based on asynchronous non-blocking IO and caching based on Identity Mapping.</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#888a85"
          id="flowPara5126-4">confine-orm.readthedocs.org</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:120.00000477%;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:none"
@@ -430,7 +430,7 @@
    style="font-weight:bold;font-size:13.75px;line-height:120.00000477%"
    id="flowSpan4884-2">Develop spam-gear</flowSpan>, high-performance utilities for fighting spam on multi-user web and mail platforms. <flowSpan
    style="fill:#2e3436"
-   id="flowSpan7444">Includes filesystem scan tools, log analysis for multiple services and DNSBL checks  </flowSpan></flowPara><flowPara
+   id="flowSpan7444">Includes filesystem scan tools, log analysis for multiple services and DNSBL checks.  </flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#888a85"
          id="flowPara5128-4">github.com/glic3rinu/spam-gear</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:120.00000477%;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:none"
@@ -440,7 +440,7 @@
    style="font-weight:bold;font-size:13.75px;fill:#000000"
    id="flowSpan8267">Contribute to confine-system</flowSpan><flowSpan
    style="font-size:13.75px;fill:#000000"
-   id="flowSpan8271">, a daemon written in Lua that implements </flowSpan>the node functionality in the CONFINE architecture. My main contribution being implementing the node REST API</flowPara><flowPara
+   id="flowSpan8271">, a daemon written in Lua that implements </flowSpan>the node functionality in CONFINE architecture. My main contribution being implementing the node REST API.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#888a85"
          id="flowPara8265">wiki.confine-project.eu</flowPara><flowPara
          id="flowPara4768-5"
@@ -589,7 +589,7 @@
            height="101"
            x="634"
            y="481.36221" /></flowRegion><flowPara
-         id="flowPara4722"></flowPara></flowRoot>    <g
+         id="flowPara4722" /></flowRoot>    <g
        id="g4876"
        transform="translate(-2,2)">
       <flowRoot
@@ -684,7 +684,7 @@
            height="219.20309"
            x="309.71277"
            y="710.1225" /></flowRegion><flowPara
-         id="flowPara4845"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4845" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4847"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:89.99999762%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -694,7 +694,7 @@
            height="210.01071"
            x="343.6539"
            y="755.37732" /></flowRegion><flowPara
-         id="flowPara4853"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4853" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4855"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:89.99999762%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -704,7 +704,7 @@
            height="220.61731"
            x="425.67828"
            y="747.59918" /></flowRegion><flowPara
-         id="flowPara4861"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4861" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4903"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:89.99999762%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -714,7 +714,7 @@
            height="13"
            x="242"
            y="198.36221" /></flowRegion><flowPara
-         id="flowPara4909"></flowPara></flowRoot>  </g>
+         id="flowPara4909" /></flowRoot>  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -751,7 +751,7 @@
          style="font-size:13.5px;fill:#2e3436"
          sodipodi:role="line"
          x="169.46709"
-         y="170.81541">ie.linkedin.com/in/maymerich</tspan><tspan
+         y="170.81541">linkedin.com/in/maymerich</tspan><tspan
          id="tspan6164"
          style="font-size:13.5px;fill:#2e3436"
          sodipodi:role="line"
@@ -1536,7 +1536,7 @@
    style="font-weight:bold;font-size:13.75px;line-height:120.00000477%"
    id="flowSpan4864">Develop django-orchestra</flowSpan>, a Django-based framework for building fully-featured web hosting control panels. <flowSpan
    style="fill:#2e3436"
-   id="flowSpan7420">Focused on extensibility, clean design and decoupled functionality, allowing to develop effective, maintainable and functional control panels with an small amount of glue code. Scales to thousands of services, servers and clients</flowSpan></flowPara><flowPara
+   id="flowSpan7420">Focused on extensibility, clean design and decoupled functionality, allowing to develop effective, maintainable and functional control panels with an small amount of glue code. Scales to thousands of services, servers and clients.</flowSpan></flowPara><flowPara
          id="flowPara4808"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:ubuntu;-inkscape-font-specification:ubuntu;opacity:1;fill:#888a85;fill-opacity:1">github.com/glic3rinu/django-orchestra</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:120.00000477%;font-family:ubuntu;-inkscape-font-specification:ubuntu;opacity:0;fill:none;fill-opacity:1"
@@ -1546,7 +1546,7 @@
    style="font-weight:bold;font-size:13.75px;line-height:120.00000477%"
    id="flowSpan4866">Deploy, migrate and maintain a django-orchestra instance at Pangea.org</flowSpan>. <flowSpan
    style="fill:#2e3436"
-   id="flowSpan7432">Enabling automated management of IaaS, PaaS and SaaS infraestructure for thousands of clients and domains. Including web, mail, DNS, databases and popular CMS's, as well as handling Pangea's billing and accountancy</flowSpan></flowPara><flowPara
+   id="flowSpan7432">Enabling automated management of IaaS, PaaS and SaaS infraestructure for thousands of clients and domains. Including web, mail, DNS, databases and popular CMS's, as well as handling Pangea's billing and accountancy.</flowSpan></flowPara><flowPara
          id="flowPara4812"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:120.00000477%;font-family:ubuntu;-inkscape-font-specification:ubuntu;opacity:0;fill:none">.</flowPara><flowPara
          id="flowPara4814"
@@ -1554,7 +1554,7 @@
    style="font-weight:bold;font-size:13.75px;line-height:120.00000477%"
    id="flowSpan4868">Develop BaseFS</flowSpan> (Basically available, soft state, eventually consistent filesystem). <flowSpan
    style="fill:#2e3436"
-   id="flowSpan7430">BaseFS is a gossip-driven, peer-to-peer filesystem with decentralized authority where nodes don't need to trust each other. Its focus is on solving cloud management problems on highly distributed settings, like those found in community clouds. Written in Python, it makes heavy use of concurrency and asynchronous IO</flowSpan></flowPara><flowPara
+   id="flowSpan7430">BaseFS is a gossip-driven, peer-to-peer filesystem with decentralized authority where nodes don't need to trust each other. Its focus is on solving cloud management problems on highly distributed settings, like those found in community clouds. Written in Python, it makes heavy use of concurrency and asynchronous IO.</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#888a85"
          id="flowPara5118">github.com/glic3rinu/basefs</flowPara><flowPara
          id="flowPara4818"
@@ -1564,7 +1564,7 @@
    style="font-weight:bold;font-size:13.75px;line-height:120.00000477%"
    id="flowSpan4918">Lead developer of confine-controller</flowSpan>, the central server of CONFINE architecture. <flowSpan
    style="fill:#2e3436"
-   id="flowSpan7434">CONFINE is an EU funded project with the aim of providing a large-scale testbed on top of community networks. Confine-controller manages and stores the testbed configuration in a centralized way. It provides both, a user-facing web interface and a REST API for testbed nodes. Makes heavy use of caching, asynchronous IO, coroutines and message queues, withstanding the load of thousands of nodes and providing efficient monitoring of their state</flowSpan></flowPara><flowPara
+   id="flowSpan7434">CONFINE is an EU funded project with the aim of providing a large-scale testbed on top of community networks. Confine-controller manages and stores the testbed configuration in a centralized way. It provides both, a user-facing web interface and a REST API for testbed nodes. Makes heavy use of caching, asynchronous IO, coroutines and message queues, withstanding the load of thousands of nodes and providing efficient monitoring of their state.</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#888a85"
          id="flowPara5120">wiki.confine-project.eu/soft:server</flowPara><flowPara
          id="flowPara4824"
@@ -1578,7 +1578,7 @@
    style="font-weight:bold"
    id="flowSpan7504">infrastructure</flowSpan> based on OpenVZ containers and shared storage using iSCSI and <flowSpan
    style="font-style:italic"
-   id="flowSpan4641">multipath</flowSpan> serving thousands of users and domains</flowSpan></flowPara><flowPara
+   id="flowSpan4641">multipath</flowSpan> hosting thousands of users and domains.</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#888a85"
          id="flowPara5122">pangea.org/infraestructura</flowPara><flowPara
          id="flowPara4820"
