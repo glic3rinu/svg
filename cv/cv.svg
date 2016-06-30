@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="353.71819"
-     inkscape:cy="553.85389"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="568.57519"
+     inkscape:cy="431.86344"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -57,7 +57,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     style="display:none">
+     style="display:inline">
     <text
        sodipodi:linespacing="125%"
        id="text3265-5"
@@ -299,13 +299,9 @@
    style="font-weight:bold;fill:#000000;fill-opacity:1"
    id="tspan4377">design</tspan>, <tspan
    style="font-weight:bold;fill:#000000;fill-opacity:1"
-   id="tspan4393">concurrency</tspan><tspan
-   style="font-weight:bold;fill:#000000"
-   id="tspan7452"> models</tspan> and <tspan
+   id="tspan4393">concurrent programming </tspan>and<tspan
    style="font-weight:bold;fill:#000000;fill-opacity:1"
-   id="tspan4417">distributed</tspan><tspan
-   style="font-weight:bold;fill:#000000"
-   id="tspan7456"> programming</tspan></tspan></text>
+   id="tspan4417"> distributed systems</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
@@ -714,12 +710,44 @@
            height="13"
            x="242"
            y="198.36221" /></flowRegion><flowPara
-         id="flowPara4909" /></flowRoot>  </g>
+         id="flowPara4909" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="211.66812"
+       y="927.63336"
+       id="text3448-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3450-1"
+         x="211.66812"
+         y="927.63336">Misc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:117.99999475%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="220.28809"
+       y="927.52911"
+       id="text3456-5"
+       sodipodi:linespacing="117.99999%"><tspan
+         sodipodi:role="line"
+         x="220.28809"
+         y="927.52911"
+         style="font-size:13px"
+         id="tspan3220-4"><tspan
+           style="fill:#555753"
+           id="tspan4784">Strong skills with</tspan><tspan
+           style="font-size:14px"
+           id="tspan4788"> distributed file systems, networking, shared storage,</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="220.28809"
+         y="944.04913"
+         style="font-size:14px"
+         id="tspan4762">cloud computing, databases, web development</tspan></text>
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:150%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
@@ -1578,7 +1606,7 @@
    style="font-weight:bold"
    id="flowSpan7504">infrastructure</flowSpan> based on OpenVZ containers and shared storage using iSCSI and <flowSpan
    style="font-style:italic"
-   id="flowSpan4641">multipath</flowSpan> hosting thousands of users and domains.</flowSpan></flowPara><flowPara
+   id="flowSpan4641">multipath</flowSpan>, hosting thousands of users and domains.</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#888a85"
          id="flowPara5122">pangea.org/infraestructura</flowPara><flowPara
          id="flowPara4820"
