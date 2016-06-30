@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="568.57519"
-     inkscape:cy="290.44208"
+     inkscape:zoom="2"
+     inkscape:cx="464.30525"
+     inkscape:cy="138.75975"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -227,7 +227,9 @@
    style="fill:#555753"
    id="tspan4485">,</tspan> OpenVZ<tspan
    style="font-size:13px;fill:#555753"
-   id="tspan3177">, </tspan>Nagios<tspan
+   id="tspan3177">, <tspan
+   style="fill:#000000;font-size:14px"
+   id="tspan4797">PHP</tspan>, </tspan>Nagios<tspan
    style="font-size:13px;fill:#555753"
    id="tspan3179"> ,</tspan> MailScanner</tspan><tspan
            style="font-size:13px;fill:#555753"
